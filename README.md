@@ -1,0 +1,1 @@
+My final year project in 2021 focused on developing a system to automatically allocate students into teams based on form submissions, aiming to streamline the team formation process at Auckland University of Technology.
